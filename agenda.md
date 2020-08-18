@@ -10,11 +10,17 @@
   
 - [X] July 21, 2020    
    > Discuss feature lists from the Anaconda folks and from Gabor (https://docs.google.com/document/d/17gADsjqNhGHSK1RPCL8B4VjPYrHFF85T0-cvk4l4mss/edit?usp=sharing)  
-   
-- [X] July 28, 2020       
-   > Serialization, import/export, and associated data structures.
-   > If time, discuss homework from July 21 meeting (vote on items from the Anaconda folks and from Gabor ... Scott will prepare a spread sheet we can use to recored our votes).
+
+- [X] July 28, 2020
+   > Discuss issues from July 21 meeting (vote on items from the Anaconda folks and from Gabor ... Scott will prepare a spread sheet we can use to recored our votes).
    > https://docs.google.com/document/d/10-rW8kI4bI-I7HXVQTwGrtQ-et2B2oacRUIMwqf0YnQ/edit#heading=h.2lgw5acxkxbj
+   
+- [X] August 11, 2020
+   > Serialization, import/export, and associated data structures.
+   > Conclusion: Two possible API additions: (cross-platform) import/export to file and (implementation-specific) serialization to void\* array of bytes + a length.  Controversial question: should we allow a zero-copy serialization method (e.g. an array of void\* arrays and lengths)?  Larger question: should we introduce *views* to allow zero-copy submatrix extraction?
+
+- [X] August 18, 2020
+   > Discuss serialization doc: https://docs.google.com/document/d/10-rW8kI4bI-I7HXVQTwGrtQ-et2B2oacRUIMwqf0YnQ/edit#heading=h.2lgw5acxkxbj
    
  
 - [X] Future meetings ... Date not specified
