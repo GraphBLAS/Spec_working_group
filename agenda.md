@@ -24,6 +24,7 @@
 
 - [X] August 25, 2020
    > Ben will create a serialize/deserialize, input/output API.  Discuss.
+   > Discuss long-term plans for agenda.
    
  
 - [X] Future meetings ... Date not specified
