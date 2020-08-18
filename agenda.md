@@ -21,6 +21,9 @@
 
 - [X] August 18, 2020
    > Discuss serialization doc: https://docs.google.com/document/d/10-rW8kI4bI-I7HXVQTwGrtQ-et2B2oacRUIMwqf0YnQ/edit#heading=h.2lgw5acxkxbj
+
+- [X] August 25, 2020
+   > Ben will create a serialize/deserialize, input/output API.  Discuss.
    
  
 - [X] Future meetings ... Date not specified
