@@ -25,6 +25,10 @@
 - [X] August 25, 2020
    > Ben will create a serialize/deserialize, input/output API.  Discuss.
    > Discuss long-term plans for agenda.
+
+- [X] September 1, 2020
+   > Scott will take ten minutes at the beginning of meeting to discuss select.
+   > Ben will fix issues pointed out in import/export API.  We will all brainstorm about how to deal with hypersparse.
    
  
 - [X] Future meetings ... Date not specified
